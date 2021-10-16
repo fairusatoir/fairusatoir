@@ -6,8 +6,11 @@
   <a href="mailto:fairusatoir98@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://t.me/atoir" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-%231DA1F2?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
   <a href="https://twitter.com/zuhairatoir" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://instagram.com/zuhairatoir" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -16,7 +19,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
-### Contact
-[LinkedIn](https://www.linkedin.com/in/fairusatoir)
-[Telegram](https://t.me/atoir)
