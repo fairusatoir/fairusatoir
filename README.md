@@ -26,10 +26,13 @@
 <details>
   <summary>Show more</summary>
 
+    
+<div align="center">
+    
 ### GitHub Stats
+    
   [![](https://github-readme-stats.vercel.app/api?username=fairusatoir&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fairusatoir&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
+</div>
 </details>
