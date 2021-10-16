@@ -19,3 +19,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
+
+
+<details>
+  <summary>Show more</summary>
+
+### GitHub Stats
+  [![](https://github-readme-stats.vercel.app/api?username=fairusatoir&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fairusatoir&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+</details>
