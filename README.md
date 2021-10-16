@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" height="240" width="400"/>
+    <a href="https://www.youtube.com/playlist?list=PLCwhyJ3y0xc__Fp0UZxPrAozdBjGtX6lI" target="_blank">
+        <img src="https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif" height="auto" width="500"/>
+    </a>
 </p>
 
 <div align="center">
