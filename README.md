@@ -1,4 +1,6 @@
-![](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+<p align="center">
+    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" height="240" width="400"/>
+</p>
 
 #Hello 🌎
 Welcome 
