@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <a href="mailto:fairusatoir98@gmail.com" target="_blank">
+  <a href="mailto:fairusatoir@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/atoir" target="_blank">
