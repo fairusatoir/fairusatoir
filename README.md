@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.youtube.com/playlist?list=PLCwhyJ3y0xc__Fp0UZxPrAozdBjGtX6lI" target="_blank">
-        <img src="https://i.imgur.com/pnztT1T.gif" height="auto" width="1024"/>
+        <img src="https://i.pinimg.com/originals/ed/88/da/ed88da8c757d74f6255717ffc7a78154.gif" height="auto" width="1024"/>
     </a>
 </p>
 
