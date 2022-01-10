@@ -1,12 +1,8 @@
 
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">Welcome to my Github Account</h3>
+<h1>Hi 👋</h1>
+<h3>Welcome to my Github Account</h3>
 
 <br>
-
-<p>
-    <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"  width="500" height="500" />
-</p>
 
 <p align="right"> 
     <h3>Profile Views :</h3> 
@@ -57,6 +53,12 @@
 
 <br>
 
+<h3>Statistical Data :-</h3>
+
+<div>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fairusatoir&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
   
   [![](https://github-readme-stats.vercel.app/api?username=fairusatoir&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
