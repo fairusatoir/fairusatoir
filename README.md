@@ -1,39 +1,62 @@
-<p align="center">
-    <a href="https://www.youtube.com/playlist?list=PLCwhyJ3y0xc__Fp0UZxPrAozdBjGtX6lI" target="_blank">
-        <img src="https://i.pinimg.com/originals/ed/88/da/ed88da8c757d74f6255717ffc7a78154.gif" height="auto" width="1024"/>
-    </a>
+
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">Welcome to my Github Account</h3>
+
+<br>
+
+<p>
+    <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 </p>
 
-<div align="center">
-  <a href="mailto:fairusatoir@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+<p align="right"> 
+    <h3>Profile Views :</h3> 
+    <img src="https://komarev.com/ghpvc/?username=fairusatoir&label=Profile%20views&color=0e75b6&style=flat" alt="adam-pw" /> 
+</p>
+
+- 📫 How to reach me **fairusatoir@gmail.com**
+
+- ⚡ Fun fact :- I love spicy food and hot chocolate.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/fairusatoir/" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" />
   </a>
-  <a href="https://t.me/atoir" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-%232c81ab?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://twitter.com/zuhairatoir" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="_._.adam._" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/zuhairatoir" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/zuhairatoir" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/fairusatoir" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-    
-</div>
+</p>
 
 
-<details>
-  <summary>Show more</summary>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40"
+      height="40" /> 
+    </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40"
+      height="40" /> 
+    </a>
+    <a href="https://python.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"
+      height="40" /> 
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="git" width="40" height="40" /> 
+    </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /> 
+    </a> 
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="40" height="40" /> 
+    </a> 
+</p>
 
-    
-<div align="center">
-    
-### GitHub Stats
-    
-  [![](https://github-readme-stats.vercel.app/api?username=fairusatoir&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fairusatoir&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-</details>
+  
+  [![](https://github-readme-stats.vercel.app/api?username=fairusatoir&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
