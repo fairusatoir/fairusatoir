@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fairusatoir@gmail.com**
 
-- ⚡ Fun fact :- I love spicy food and hot chocolate.
+- ⚡ Fun fact : I love spicy food and hot chocolate.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,7 +53,7 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>My Stat :</h3>
 
 <div>
 
