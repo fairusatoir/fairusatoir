@@ -1,64 +1,25 @@
+![alt text](https://juanlu.is/assets/images/hello-world-header.png)
 
-<h1>Hi 👋</h1>
-<h3>Welcome to my Github Account</h3>
+## Fairus Z.A. Atoir——@fairusatoir
 
-<br>
+👋Hi, I'm a Software Engineer focusing on Backend.
 
-<p align="right"> 
-    <h3>Profile Views :</h3> 
-    <img src="https://komarev.com/ghpvc/?username=fairusatoir&label=Profile%20views&color=0e75b6&style=flat" alt="adam-pw" /> 
-</p>
+I'm always trying to grow and learn something new to level up my skill in Software development. I stand for Clean code and efficient devops to make quality and useful project.
+	
+### What I'm focusing on :man_technologist:
+Currently improving my programming skill: PHP and Java
 
-- 📫 How to reach me **fairusatoir@gmail.com**
+Tools used : Postman, Git and Docker
 
-- ⚡ Fun fact : I love spicy food and hot chocolate.
+### Find Me :iphone:
+    
+You can reach me on [LinkedIn](https://www.linkedin.com/in/fairusatoir) or [Twitter](https://twitter.com/zuhairatoir)  
 
-<h3 align="left">Connect with me:</h3>
+### My Stat :star2:
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/fairusatoir/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/zuhairatoir" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="_._.adam._" height="30" width="40" />
-  </a>
+<a href="https://github.com/fairusatoir">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fairusatoir&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fairusatoir&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40"
-      height="40" /> 
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40"
-      height="40" /> 
-    </a>
-    <a href="https://python.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"
-      height="40" /> 
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="git" width="40" height="40" /> 
-    </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /> 
-    </a> 
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="40" height="40" /> 
-    </a> 
-</p>
-
-<br>
-
-<h3>My Stat :</h3>
-
-<div>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fairusatoir&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![](https://github-readme-stats.vercel.app/api?username=fairusatoir&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-<div>
