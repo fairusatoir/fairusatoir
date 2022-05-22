@@ -9,6 +9,8 @@ I'm always trying to grow and learn something new to level up my skill in Softwa
 ### What I'm focusing on :man_technologist:
 Currently improving my programming skill: PHP and Java
 
+Currently Database used: SQL Server and Mysql 
+
 Tools used : Postman, Git and Docker
 
 ### Find Me :iphone:
