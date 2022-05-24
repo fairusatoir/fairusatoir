@@ -7,11 +7,11 @@
 I'm always trying to grow and learn something new to level up my skill in Software development. I stand for Clean code and efficient devops to make quality and useful project.
 	
 ### What I'm focusing on :man_technologist:
-Currently improving my programming skill: PHP and Java
+Currently improving my programming skill: **PHP** and **Java**
 
-Currently Database used: SQL Server and Mysql 
+Currently Database used: **SQL Server** and **Mysql** 
 
-Tools used : Postman, Git and Docker
+Tools used : **Postman**, **Git** and **Docker**
 
 ### Find Me :iphone:
     
