@@ -3,7 +3,7 @@
 ## Fairus Z.A. Atoir——@fairusatoir
 
 <h4>
-	Hi, I'm a Software Engineer focusing on Backend. <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px">
+	Hi, I'm a Software Engineer focusing on Backend. <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="40">
 </h4>
 
 I'm always trying to grow and learn something new to level up my skill in Software development. I stand for Clean code and efficient devops to make quality and useful project.
