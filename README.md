@@ -6,7 +6,7 @@
 	Hi, I'm a Software Engineer focusing on Backend. <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="40">
 </h4>
 
-I'm always trying to grow and learn something new to level up my skill in Software development. I stand for Clean code and efficient devops to make quality and useful project.
+I am constantly striving to improve and learn new things to enhance my skills in software development. I advocate for clean code and efficient DevOps practices to create high-quality and useful projects.
 	
 ### What I'm focusing on :man_technologist:
 Currently improving my programming skill: [PHP](https://www.php.net/) and [Java](https://www.java.com/en/)
