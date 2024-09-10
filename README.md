@@ -7,7 +7,7 @@
 </h4>
 	
 ### What I'm focusing on :man_technologist:
-[PHP](https://www.php.net/) , [Go](https://go.dev), [Java](https://www.java.com/en/)
+[PHP](https://www.php.net/) , [Go](https://go.dev), [JS](https://www.javascript.com/), [Java](https://www.java.com/en/)
 
 ### Find Me :iphone:
     
